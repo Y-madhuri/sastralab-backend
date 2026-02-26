@@ -12,5 +12,5 @@ qrcode[pil]==7.4.2
 Pillow==10.3.0
 google-auth==2.29.0
 google-auth-oauthlib==1.2.0
-requests==2.32.2
+requests==2.31.0
 gunicorn==22.0.0

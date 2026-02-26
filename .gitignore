@@ -1,0 +1,23 @@
+# Secrets - NEVER commit
+.env
+serviceAccountKey.json
+
+# Large model files
+checkpoints/vocab.pkl
+checkpoints/best.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+
+# Data
+users_data.json
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
